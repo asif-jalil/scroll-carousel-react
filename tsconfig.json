@@ -7,8 +7,10 @@
     "jsx": "react",
     "outDir": "lib",
     "strict": true,
+    "lib": ["es2018", "dom"],
     "moduleResolution": "Node",
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   },
   "include": ["src"]
 }
