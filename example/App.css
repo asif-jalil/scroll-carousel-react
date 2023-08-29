@@ -1,0 +1,16 @@
+body {
+  min-height: 200vh;
+  margin-top: 70vh;
+}
+
+.item {
+  width: 12rem;
+  height: 9rem;
+  background: rgba(125, 211, 252, 0.2);
+  border: 2px solid rgba(125, 211, 252, 0.7);
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+}
