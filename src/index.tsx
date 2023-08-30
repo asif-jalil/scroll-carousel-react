@@ -44,6 +44,7 @@ class ScrollCarousel extends React.Component<ScrollCarouselProps> {
     return React.createElement(
       this.props.elementType || 'div',
       {
+        style: { width: '100%' },
         className: this.props.className,
         ref: (c) => {
           this.carousel = c;
