@@ -12,9 +12,6 @@
   <a href="https://www.npmjs.com/package/scroll-carousel-react">
     <img alt="npm" src="https://img.shields.io/npm/dw/scroll-carousel-react">
   </a>
-  <a href="https://www.jsdelivr.com/package/npm/scroll-carousel-react">
-    <img alt="npm" src="https://data.jsdelivr.com/v1/package/npm/scroll-carousel-react/badge?style=rounded">
-  </a>
   <a href="LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/asif-jalil/scroll-carousel-react">
   </a>
